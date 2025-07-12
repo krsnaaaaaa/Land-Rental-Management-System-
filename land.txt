@@ -1,0 +1,6 @@
+101, Kathmandu, North, 4, 50000, Available
+102, Pokhara, East, 5, 60000, Not Available
+103, Lalitpur, South, 10, 100000, Available
+201, Janakpur , East, 20, 20000, Available
+202, Bardibash , North, 20, 200000, Available
+203, Sindhuli , South, 20, 100000, Available
